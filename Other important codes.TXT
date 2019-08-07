@@ -1,0 +1,15 @@
+git rm --cached filename (remove a file)
+git add filename(adds file to staging area)
+git reset HEAD filename(removes file from staging area)
+
+git diff (diff between local repo and working area)
+git diff branch1 branch2 (diff beteween files in two branches)
+git log(shows all previous commits)
+git status
+
+ls (lists all files)
+
+git remote add alias url(adds a giturl which can be accesed using alias)
+
+git checkout -- filename(getting back the file from local repo)
+git checkout 01e7dba -- filename(01e7dba is the commit no you get from git log)(goes back to the specified commit)

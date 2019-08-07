@@ -1,0 +1,8 @@
+commands after a file is edited
+
+git add filename(tracks changes of the specified file)
+git add .(tracks all files)
+
+git commit -m "message"(pushes files to local repo)
+
+git commit -am "message"(tracks all files and saves them in the local repo)

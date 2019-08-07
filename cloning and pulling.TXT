@@ -1,0 +1,2 @@
+git clone url(clones the project from any remote repo:repo doesnt have to be own by us)
+git pull(when the remote repo is edited by you or any other person you get a request to accept the changes:after that you can pull the project from your remote repo)

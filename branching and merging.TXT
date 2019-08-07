@@ -1,0 +1,10 @@
+git branch(lists branches)
+git branch branchname(creates new branch)
+git checkout branch(moves to specified branch)
+git merge branchname(merges current branch with specified branch)
+
+
+git checkout -b branchname(Creates a new branch and control is navigated to the newly created branch)
+
+
+

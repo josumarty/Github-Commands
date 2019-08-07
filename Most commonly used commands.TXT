@@ -1,0 +1,15 @@
+git init(first step:for initializing github in a folder)
+
+git add filename
+
+git commit -m "message"(data files saved in github local repo)
+
+git remote add alias url(example:git remote add origin https://github.com/josumarty/trial.git)
+
+git push -u origin master(data files saved in github remote repo)
+
+git status(differentiates tracked and untracked files)
+
+git log(shows all previous commits)
+
+git clone(clones a project)
